@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200">
+  <rect width="360" height="200" fill="#ffffff"/>
+  <line x1="20" y1="170" x2="340" y2="170" stroke="#888" stroke-width="1"/>
+  <rect x="30" y="96" width="34" height="74" rx="4" fill="#d9480f" opacity="0.55"/><rect x="80" y="73" width="34" height="97" rx="4" fill="#d9480f" opacity="0.62"/><rect x="130" y="50" width="34" height="120" rx="4" fill="#d9480f" opacity="0.69"/><rect x="180" y="27" width="34" height="143" rx="4" fill="#d9480f" opacity="0.76"/><rect x="230" y="114" width="34" height="56" rx="4" fill="#d9480f" opacity="0.83"/><rect x="280" y="91" width="34" height="79" rx="4" fill="#d9480f" opacity="0.90"/>
+  <text x="20" y="30" font-family="sans-serif" font-size="16" fill="#333">독서 기록</text>
+</svg>
